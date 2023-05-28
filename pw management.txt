@@ -1,0 +1,13 @@
+change pw in: appointment, reception
+
+Doctors-:
+
+1. call next person
+2. prescription(medicine, disease)
+3. Refer other specialist
+4. 
+
+Pharmacy
+
+1. medicine
+2. incoming medcine and outgoing medicine
